@@ -1,6 +1,6 @@
 # Taxi-App-with-Angular
-Angular client for Taxi-App-Using-Django-Channels
 
+> Angular client for Taxi-App-Using-Django-Channels
 
 1. Create an Angular app from scratch using the Angular CLI.
 2. Make template-driven forms that use two-way data binding.
